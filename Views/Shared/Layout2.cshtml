@@ -1,0 +1,393 @@
+﻿@using Project.Models
+@functions {
+    public MyDbContext db = new MyDbContext();
+    public List<ItemCategory> Categories()
+    {
+        List<ItemCategory> list_record = db.Categories.Where(item => item.ParentId == 0).OrderByDescending(tbl => tbl.Id).ToList();
+        return list_record;
+    }
+    public List<ItemCategory> SubCategories(int _CategoryId)
+    {
+        List<ItemCategory> list_record = db.Categories.Where(item => item.ParentId == _CategoryId).OrderByDescending(tbl => tbl.Id).ToList();
+        return list_record;
+    }
+    //Dem so luong san pham co trong danh muc
+    public int ProductsCount(int CategoryId)
+    {
+        var list_products = db.CategoriesProducts.Where(item => item.CategoryId == CategoryId).Select(item => new { item.ProductId });
+        List<int> id_products = new List<int>();
+        foreach (var item in list_products)
+        {
+            id_products.Add(item.ProductId);
+        }
+        int count = db.Products.Where(item => id_products.Contains(item.Id)).Count();
+        return count;
+    }
+}
+
+
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Ashion Template">
+    <meta name="keywords" content="Ashion, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ashion | Template</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap"
+          rel="stylesheet">
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="~/assets/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/assets/css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="~/assets/css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="~/assets/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="~/assets/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="~/assets/css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="~/assets/css/style.css" type="text/css">
+    <link rel="stylesheet" href="~/assets/css/sweetalert2.min.css" type="text/css">
+</head>
+
+<style>
+    .categories__accordion .card-heading-custom {
+        cursor: pointer;
+    }
+
+        .categories__accordion .card-heading-custom a {
+            font-size: 14px;
+            font-weight: 500;
+            color: #111111;
+            display: block;
+        }
+
+    .select-custom, option {
+        border: none;
+        font-size: 14px;
+        font-weight: 500;
+        color: #111111;
+        width: 240px;
+    }
+
+    .sidebar__filter > button {
+        font-size: 14px;
+        color: #0d0d0d;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: 700;
+        display: inline-block;
+        padding: 5px 16px 5px 24px;
+        border: 2px solid #ff0000;
+        position: absolute;
+        right: 0;
+        bottom: -5px;
+        border-radius: 2px;
+    }
+
+    .sidebar__sizes .size__list label {
+        display: block;       
+        font-size: 14px;
+        padding-left: 0px;
+        text-transform: uppercase;
+        color: #444444;
+        position: relative;
+        cursor: pointer;
+    }
+    /*.sidebar__sizes .size__list label a{
+        margin-left: 20px;
+    }*/
+    .sidebar__sizes .size__list label .checkmark  {
+        position: absolute;
+            left: 0;
+            top: 6px;
+            height: 10px;
+            width: 10px;
+            border: 1px solid #444444;
+            border-radius: 2px;
+    }
+
+
+    .filter-range-wrap .range-slider .price-input:after {
+        position: absolute;
+        left: 136px;
+        top: 12px;
+        height: 1px;
+        width: 5px;
+        background: #0d0d0d;
+        content: "";
+    }
+
+    .sidebar__filter > button.custom_button {
+        font-size: 14px;
+        color: #0d0d0d;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: 700;
+        display: inline-block;
+        padding: 5px 16px 5px 24px;
+        border: 2px solid #ff0000;
+        position: relative;
+        margin-top: 20px;
+        border-radius: 2px;
+       
+    }
+
+    .filter-range-wrap .range-slider .price-input input {
+        font-size: 16px;
+        color: #0d0d0d;
+        max-width: 35%;
+        border: none;
+    }
+    
+
+    
+</style>
+
+<body>
+    <!-- Page Preloder -->
+    <div id="preloder">
+        <div class="loader"></div>
+    </div>
+
+    @Html.Partial("~/Views/Shared/Menu.cshtml")
+
+    <!-- Breadcrumb Begin -->
+    <div class="breadcrumb-option">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="breadcrumb__links">
+                        <a href="/Home"><i class="fa fa-home"></i> Home</a>
+                        <span>Shop</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcrumb End -->
+    <!-- Shop Section Begin -->
+    <section class="shop spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-3">
+                    <div class="shop__sidebar">
+                        <div class="sidebar__categories">
+                            <div class="section-title">
+                                <h4>Categories</h4>
+                            </div>
+                            <div class="categories__accordion">
+                                <div class="accordion" id="accordionExample">
+                                    @{
+                                        List<ItemCategory> list_categories = Categories();
+                                    }
+                                    @foreach (var item in list_categories)
+                                    {
+                                        List<ItemCategory> list_sub_categories = SubCategories(item.Id);
+
+                                        <div class="card">
+                                            @if (list_sub_categories.Count > 0)
+                                            {
+                                                <div class="card-heading">
+                                                    <a data-toggle="collapse" data-target="#collapse_@item.Id"> @item.Name</a>
+
+                                                </div>
+
+                                                <div id="collapse_@item.Id" class="collapse" data-parent="#accordionExample">
+                                                    <div class="card-body">
+                                                        <ul>
+                                                            @foreach (var itemSub in list_sub_categories)
+                                                            {
+                                                                <li><a href="/Products/Index/@itemSub.Id">@itemSub.Name (@ProductsCount(itemSub.Id))</a></li>
+
+                                                            }
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                            }
+                                            else
+                                            {
+                                                <div class="card-heading-custom">
+                                                    <a href="/Products/Index/@item.Id"> @item.Name</a>
+
+                                                </div>
+                                            }
+                                        </div>
+                                    }
+
+                                </div>
+                            </div>
+
+
+                        </div>
+
+
+
+                        @*-*@
+                        <div class="sidebar__categories">
+                            <div class="section-title">
+                                <h4>Shop by</h4>
+                            </div>
+                            <div class="categories__accordion">
+                                <div class="accordion" id="accordionExample">
+                                    <div class="card">
+                                        <div class="card-heading ">
+                                            <select class="select-custom" onchange="location.href='/Products/Index/@if(ViewBag.CategoryId != null && ViewBag.CategoryId > 0){
+                                            <text>@ViewBag.CategoryId</text>}?order='+this.value;">
+                                                <option value="">Name</option>
+                                                <option value="name-asc">Sort by name a-z</option>
+                                                <option value="name-desc">Sort by name z-a</option>
+
+                                            </select>
+                                        </div>
+
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-heading ">
+                                            <select name="orderby" class="select-custom" onchange="location.href='/Products/Index/@if(ViewBag.CategoryId != null && ViewBag.CategoryId > 0){
+                                            <text>@ViewBag.CategoryId</text>}?order='+this.value;">
+                                                <option value="">Price</option>
+                                                <option value="price-asc">Sort by price: low to high</option>
+                                                <option value="price-desc">Sort by price: high to low</option>
+                                            </select>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        @*-*@
+                        <div class="sidebar__filter">
+                            <div class="section-title">
+                                <h4>Shop by price</h4>
+                            </div>
+                            @*<div class="filter-range-wrap">
+                                <div class="price-range ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content"
+                                data-min="0" data-max="9999"></div>
+                                <div class="range-slider">
+                                    <div class="price-input">
+                                        <p>Price:</p>
+                                        <input min="0" style="overflow: hidden" type="number" id="fromPrice">
+                                        <input min="0" style="overflow: hidden" type="number" id="toPrice">
+                                    </div>
+                                </div>
+                            </div>*@
+                            <div class="filter-range-wrap">
+                                <div class="price-range ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content"
+                                     data-min="10000000" data-max="50000000"></div>
+                                <div class="range-slider">
+                                    <div class="price-input">
+                                        <p>Price:</p>
+                                        <input type="text" id="fromPrice" name="min" value="10000000">
+                                        <input type="text" id="toPrice" name="max" value="50000000">
+                                    </div>
+                                </div>
+                            </div>
+                            <button class="custom_button" onclick="location.href='/Search/SearchPrice?fromPrice='+document.getElementById('fromPrice').value+'&toPrice='+document.getElementById('toPrice').value">Filter</button>
+                        </div>
+                        <div class="sidebar__sizes">
+                            <div class="section-title">
+                                <h4>Shop by tag</h4>
+                            </div>
+                            <div class="size__list">
+                                @functions {
+                                    //lấy các danh sách
+                                    public List<ItemTag> ListTags()
+                                    {
+                                        //List<ItemTag> list_record = (from item in db.Tags orderby item.Id descending select item).ToList();
+                                        List<ItemTag> list_record = db.Tags.OrderByDescending(item => item.Id).ToList();
+                                        return list_record;
+                                    }
+                                }
+                                @{
+                                    //lấy danh sách tags
+                                    List<ItemTag> list_tags = ListTags();
+
+                                    //lấy tên Controller
+                                    string controllerName = Context.Request.RouteValues["controller"].ToString();
+                                    //lấy tên action (tên hàm trong controller)
+                                    string actionName = Context.Request.RouteValues["action"].ToString();
+                                    //lấy id
+                                    //string id = Context.Request.RouteValues["id"].ToString();
+                                    //var id = Context.Request.RouteValues["id"];
+                                    string id = Convert.ToString(Context.Request.RouteValues["id"]) != null ? Convert.ToString(Context.Request.RouteValues["id"]) : "0";
+                                }
+                                @foreach(var item in list_tags)
+                                {
+                                
+                                    <label for="@item.Name">
+                                        <a href="/Search/Tag/@item.Id">
+                                            <p style="margin: 0px 0px 0px 20px; font-size: 14px; color: #444444;">@item.Name </p>
+                                                                            
+                                        <input type="radio" name="name" id="@item.Name" @if(controllerName=="Search"&&actionName=="Tag"&&!String.IsNullOrEmpty(id)&&Convert.ToInt32(id)==Convert.ToInt32(item.Id)){<text>checked</text>}>                                       
+                                        <span class="checkmark"></span>
+                                        </a>
+                                     
+                                    </label>
+                                
+                                }
+                                
+
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-9">
+                    @RenderBody()
+                </div>
+
+
+
+
+            </div>
+        </div>
+    </section>
+    <!-- Shop Section End -->
+    
+            @Html.Partial("~/Views/Shared/Footer.cshtml")
+        
+
+
+
+
+
+    <!-- Js Plugins -->
+    <script src="~/assets/js/jquery-3.3.1.min.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="~/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/assets/js/jquery-ui.min.js"></script>
+    <script src="~/assets/js/mixitup.min.js"></script>
+    <script src="~/assets/js/jquery.countdown.min.js"></script>
+    <script src="~/assets/js/jquery.slicknav.js"></script>
+    <script src="~/assets/js/owl.carousel.min.js"></script>
+    <script src="~/assets/js/jquery.nicescroll.min.js"></script>
+    <script src="~/assets/js/main.js"></script>
+    <script src="~/assets/js/sweetalert2.all.min.js"></script>
+    <script>
+        var rangeSlider = $(".price-range"),
+            minamount = $("#fromPrice"),
+            maxamount = $("#toPrice"),
+            minPrice = rangeSlider.data('min'),
+            maxPrice = rangeSlider.data('max');
+        rangeSlider.slider({
+            range: true,
+            min: minPrice,
+            max: maxPrice,
+            values: [10000000, 50000000],
+            slide: function (event, ui) {
+                minamount.val(ui.values[0]);
+                maxamount.val(ui.values[1]);
+            }
+        });
+        minamount.val(rangeSlider.slider("values", 0));
+        maxamount.val(rangeSlider.slider("values", 1));
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,108 @@
+﻿@{
+    //load file Layout.cshtml
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+@*De phan trang thi using cac doi tuong sau*@
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+
+<div class="midde_cont">
+    <div class="container-fluid">
+        <div class="row column_title">
+            <div class="col-md-12">
+                <div class="page_title">
+                    <h2>Users</h2>
+                </div>
+            </div>
+        </div>
+        <!-- row -->
+        <div class="row column1">
+            <div class="col-md-12">
+                <div class="white_shd full margin_bottom_30">
+                    <div class="full graph_head">
+                        <div class="heading1 margin_0">
+                            <a href="/Admin/Users/Create" class="btn btn-danger">Add user</a>
+                        </div>
+                    </div>
+                    <div class="full price_table padding_infor_info">
+
+                        <div class="row">
+                            @foreach (var item in Model)
+                            {
+                                <!-- column contact -->
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 profile_details margin_bottom_30">
+                                    <div class="contact_blog">
+                                        <h4 class="brief">Digital Strategist</h4>
+                                        <div class="contact_inner">
+                                            <div class="left">
+                                                <h3>@item.Name</h3>
+                                                <p><strong>About: </strong>Frontend Developer</p>
+                                                <ul class="list-unstyled">
+                                                    <li><i class="fa fa-envelope-o"></i> : @item.Email</li>
+                                                    <li><i class="fa fa-phone"></i> : 987 654 3210</li>
+                                                </ul>
+                                            </div>
+                                            <div class="right">
+                                                <div class="profile_contacts">
+                                                    <img class="img-responsive" src="~/admin/images/layout_img/msg2.png" alt="#" />
+                                                </div>
+                                            </div>
+                                            <div class="bottom_list">
+
+                                                <div class="right_button">
+                                                    <button type="button" class="btn btn-success btn-xs">
+                                                        <a style="color: white" href="/Admin/Users/Update/@item.Id">Edit</a>
+                                                    </button>
+                                                    <button type="button" class="btn btn-primary btn-xs">
+                                                        <a style="color: white" href="/Admin/Users/Delete/@item.Id" onclick="return window.confirm('Are you sure?');">Delete</a>
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end column contact blog -->
+                            }
+                        </div>
+                        <style>
+                            .pagination {
+                                margin-top: 20px;
+                               
+                            }
+                                .pagination li {
+                                    display: inline-block;
+                                    height: 40px;
+                                    width: 40px;
+                                    border: 1px solid #f2f2f2;
+                                    border-radius: 50%;
+                                    font-size: 14px;
+                                    color: gray;
+                                    font-weight: 600;
+                                    line-height: 40px;
+                                    text-align: center;
+                                    transition: all, 0.3s;
+                                    margin-right: 6px;
+                                    font-weight: 600;
+                                }
+
+
+
+                                    .pagination li:hover {
+                                        background: skyblue;
+                                        border-color: #0d0d0d;
+                                        color: #ffffff;
+                                    }
+                        </style>
+                        @Html.PagedListPager((IPagedList)Model, p=>Url.Action("Index", new{page = p}))
+                    </div>
+                </div>
+            </div>
+            <!-- end row -->
+        </div>
+    </div>
+   
+    <!-- end dashboard inner -->
+</div>
+
+
+

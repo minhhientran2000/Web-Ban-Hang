@@ -1,0 +1,163 @@
+﻿@{
+    //load file Layout.cshtml
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+@*De phan trang thi using cac doi tuong sau*@
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@using Project.Models
+@functions {
+    public MyDbContext db = new MyDbContext();
+    //hàm liệt kê các danh mục tương ứng với id sản phẩm
+    public string ListCategoriesProductsName(int _ProductId)
+    {
+        //lấy các danh mục trong table CatgoriesProducts tương ứng với _ProductId
+        List<ItemCategoriesProducts> list_categories_products = db.CategoriesProducts.Where(item => item.ProductId == _ProductId).ToList();
+        //lấy các danh mục tương ứng với id danh mục vừa lấy ở trên
+        string str = "";
+        foreach (var item_category_product in list_categories_products)
+        {
+            ItemCategory record_category = db.Categories.Where(item => item.Id == item_category_product.CategoryId).FirstOrDefault();
+            if (record_category != null)
+            {
+                str += "<div>" + record_category.Name + "</div>";
+            }
+        }
+        return str;
+    }
+
+    //ham liet ke cac tags
+    public string ListTagsProductsName(int _ProductId)
+    {
+        //lấy các danh mục trong table CatgoriesProducts tương ứng với _ProductId
+        List<ItemTagProduct> list_tags_products = db.TagsProducts.Where(item => item.ProductId == _ProductId).ToList();
+        //lấy các danh mục tương ứng với id danh mục vừa lấy ở trên
+        string str = "";
+        foreach (var item_tag_product in list_tags_products)
+        {
+            ItemTag record_tag = db.Tags.Where(item => item.Id == item_tag_product.TagId).FirstOrDefault();
+            if (record_tag != null)
+            {
+                str += "<div>" + record_tag.Name + "</div>";
+            }
+        }
+        return str;
+    }
+}
+
+
+<div class="midde_cont">
+    <div class="container-fluid">
+        <div class="row column_title">
+            <div class="col-md-12">
+                <div class="page_title">
+                    <h2>Project</h2>
+                </div>
+            </div>
+        </div>
+        <!-- row -->
+        <div class="row column1">
+            <div class="col-md-12">
+                <div class="white_shd full margin_bottom_30">
+                    <div style="margin: 10px 0px 0px 35px;">
+                        <a href="/Admin/Products/Create" class="btn btn-primary">Add product</a>
+                    </div>
+                    <div class="full price_table padding_infor_info">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="table-responsive-sm">
+                                    <table class="table table-striped projects">
+
+                                        <tr>
+                                            <th style="width: 100px; text-align:center;">Photo</th>
+                                            <th style="width:300px;">Name</th>
+                                            <th style="width:200px;">Categories</th>
+                                            <th style="width:100px;">Tags</th>
+                                            <th style="width:150px; text-align:center;">Price</th>
+                                            <th style="width:60px; text-align:center;">Discount</th>
+                                            <th style="width:50px; text-align:center;">Hot</th>
+                                            
+                                            <th style="width:60px;"></th>
+                                            <th style="width:60px;"></th>
+                                        </tr>
+
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+
+                                                <td>
+                                                    @if (item.Photo != null && File.Exists(Directory.GetCurrentDirectory() + "\\wwwroot\\Upload\\Products\\" + item.Photo))
+                                                    {
+                                                        <img src="~/Upload/Products/@item.Photo" style="width:100px;">
+                                                    }
+                                                </td>
+                                                <td>
+                                                    @item.Name
+                                                </td>
+                                                <td>@Html.Raw(ListCategoriesProductsName(item.Id))</td>
+                                                <td>@Html.Raw(ListTagsProductsName(item.Id))</td>
+                                                <td style="text-align:center">@string.Format("{0:#,#.}",item.Price) $</td>
+                                                <td style="text-align:center">@item.Discount %</td>
+                                                <td style="text-align:center">
+                                                    @if (item.Hot == 1)
+                                                    {
+                                                        <span><i class="fa fa-calendar-check-o"></i></span>
+                                                    }
+                                                </td>
+                                                
+                                                <td>
+
+                                                    <a href="/Admin/Products/Update/@item.Id" class="btn btn-danger">Edit</a>
+
+                                                </td>
+                                                <td>
+
+                                                    <a href="/Admin/Products/Delete/@item.Id" class="btn btn-secondary" onclick="return window.confirm('Are you sure?');">Delete</a>
+
+                                                </td>
+                                            </tr>
+
+                                        }
+                                    </table>
+
+                                </div>
+                            </div>
+                        </div>
+                        @Html.PagedListPager((IPagedList)Model,p=>Url.Action("Index", new {page = p}))
+                    </div>
+                </div>
+            </div>
+            <!-- end row -->
+        </div>
+
+    </div>
+
+</div>
+<style>
+    .pagination {
+        margin-top: 20px;
+       
+    }
+
+        .pagination li {
+            display: inline-block;
+            height: 40px;
+            width: 40px;
+            border: 1px solid #f2f2f2;
+            border-radius: 50%;
+            font-size: 14px;
+            color: chocolate;
+            font-weight: 600;
+            line-height: 40px;
+            text-align: center;
+            transition: all, 0.3s;
+            margin-right: 6px;
+            font-weight: 600;
+        }
+
+            .pagination li:hover {
+                background: #111111;
+                border-color: #f2f2f2;
+                color: #f2f2f2;
+            }
+</style>

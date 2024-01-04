@@ -1,0 +1,105 @@
+﻿@{
+    //load file Layout.cshtml vao day
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+@using Project.Models
+@using System.IO
+
+@functions {
+    public MyDbContext db = new MyDbContext();
+    public ItemCustomers GetCustomers(int _CustomerId)
+    {
+        //lay mot ban ghi
+        ItemCustomers record = db.Customers.Where(item => item.Id == _CustomerId).FirstOrDefault();
+        return record != null ? record : new ItemCustomers();
+    }
+    public ItemOrders GetOrders(int _OrderId)
+    {
+        //lay mot ban ghi
+        ItemOrders record = db.Orders.Where(item => item.Id == _OrderId).FirstOrDefault();
+        return record != null ? record : new ItemOrders();
+    }
+    public ItemProduct GetProducts(int _ProductId)
+    {
+        //lay mot ban ghi
+        ItemProduct record = db.Products.Where(item => item.Id == _ProductId).FirstOrDefault();
+        return record != null ? record : new ItemProduct();
+    }
+}
+
+
+
+<div class="midde_cont">
+    @{
+        ItemOrders recordOrders = GetOrders(ViewBag.OrderId);
+    }
+    <div class="container-fluid">
+        <div class="row column_title">
+            <div class="col-md-12">
+                <div class="page_title">
+                    <h2>Order detail</h2>
+                </div>
+            </div>
+        </div>
+        <!-- row -->
+        <div class="row column1">
+            <div class="col-md-12">
+                <div class="white_shd full margin_bottom_30">
+                    <div style="margin: 10px 0px 0px 35px;">
+                        <a href="/Admin/Orders" class="btn btn-primary">Quay lai</a>
+                        @if (recordOrders.Status == 0)
+                        {
+                            <a href="/Admin/Orders/Delivery/@ViewBag.OrderId" class="btn btn-secondary">Giao hàng</a>
+                        }
+                    </div>
+                    <div class="full price_table padding_infor_info">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="table-responsive-sm">
+                                    <table class="table table-striped projects">
+
+                                        <tr>
+                                            <th style="width: 100px; text-align:center;">Photo</th>
+                                            <th>Name</th>
+                                            <th style="width:200px;">Price</th>
+                                            <th style="width:100px;">Quantity</th>
+                                            <th style="width:180px;">Total</th>
+                                           
+                                        </tr>
+
+                                        @foreach (var item in Model)
+                                        {
+                                            ItemProduct recordProducts = GetProducts(item.ProductId);
+                                            <tr>
+
+                                                <td>
+                                                    @if (recordProducts.Photo != null && File.Exists(Directory.GetCurrentDirectory() + "\\wwwroot\\Upload\\Products\\" + recordProducts.Photo))
+                                                    {
+                                                       <img src="~/Upload/Products/@recordProducts.Photo" style="width:100px;" />
+                                                    }
+                                                </td>
+                                                
+                                                <td>@recordProducts.Name</td>
+                                                <td>@string.Format("{0:#,#.}", recordProducts.Price - (recordProducts.Price * recordProducts.Discount) / 100) đ</td>
+                                                <td style="text-align:center">@item.Quantity</td>
+                                                <td>@string.Format("{0:#,#.}", @item.Quantity*(recordProducts.Price - (recordProducts.Price * recordProducts.Discount) / 100)) đ</td>
+                                            </tr>
+
+                                        }
+                                    </table>
+
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <!-- end row -->
+        </div>
+
+    </div>
+
+</div>
+
+

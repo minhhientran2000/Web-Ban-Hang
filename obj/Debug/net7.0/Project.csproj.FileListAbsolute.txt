@@ -1,0 +1,1382 @@
+G:\DotNet19\Project\Project\bin\Debug\net7.0\appsettings.Development.json
+G:\DotNet19\Project\Project\bin\Debug\net7.0\appsettings.json
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Project.exe
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Project.deps.json
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Project.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Project.pdb
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Humanizer.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.Build.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\NuGet.Common.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\NuGet.Configuration.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\NuGet.Frameworks.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\NuGet.Packaging.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\NuGet.Protocol.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\NuGet.Versioning.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Composition.Convention.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Composition.Hosting.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Composition.Runtime.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+G:\DotNet19\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+G:\DotNet19\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+G:\DotNet19\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+G:\DotNet19\Project\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+G:\DotNet19\Project\Project\obj\Debug\net7.0\staticwebassets.pack.json
+G:\DotNet19\Project\Project\obj\Debug\net7.0\staticwebassets.build.json
+G:\DotNet19\Project\Project\obj\Debug\net7.0\staticwebassets.development.json
+G:\DotNet19\Project\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.dll
+G:\DotNet19\Project\Project\obj\Debug\net7.0\refint\Project.dll
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.pdb
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+G:\DotNet19\Project\Project\obj\Debug\net7.0\ref\Project.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\BCrypt.Net-Core.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\JetBrains.Annotations.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\X.PagedList.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DotNet19\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\DotNet19\Project\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\appsettings.Development.json
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\appsettings.json
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Project.exe
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Project.deps.json
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Project.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Project.pdb
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Azure.Core.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Azure.Identity.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\BCrypt.Net-Core.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Humanizer.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\JetBrains.Annotations.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Build.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\NuGet.Common.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\NuGet.Configuration.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\NuGet.Frameworks.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\NuGet.Packaging.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\NuGet.Protocol.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\NuGet.Versioning.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Convention.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Hosting.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Runtime.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Memory.Data.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\X.PagedList.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.pack.json
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.build.json
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.development.json
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.dll
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\refint\Project.dll
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.pdb
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+G:\DotNet19\Project - Copy\Project\obj\Debug\net7.0\ref\Project.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\MailKit.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\MimeKit.dll
+G:\DotNet19\Project - Copy\Project\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\appsettings.Development.json
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\appsettings.json
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Project.exe
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Project.deps.json
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Project.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Project.pdb
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Azure.Core.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Azure.Identity.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\BCrypt.Net-Core.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Humanizer.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\JetBrains.Annotations.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\MailKit.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Build.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\MimeKit.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\NuGet.Common.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\NuGet.Configuration.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\NuGet.Frameworks.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\NuGet.Packaging.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\NuGet.Protocol.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\NuGet.Versioning.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Convention.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Hosting.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Runtime.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Memory.Data.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\X.PagedList.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\CocCocDownload\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.pack.json
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.build.json
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.development.json
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.dll
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\refint\Project.dll
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.pdb
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+G:\CocCocDownload\Project - Copy\Project\obj\Debug\net7.0\ref\Project.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\appsettings.Development.json
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\appsettings.json
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Project.exe
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Project.deps.json
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Project.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Project.pdb
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Azure.Core.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Azure.Identity.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\BCrypt.Net-Core.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Humanizer.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\JetBrains.Annotations.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\MailKit.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Build.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\MimeKit.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\NuGet.Common.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\X.PagedList.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.build.json
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.development.json
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\refint\Project.dll
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.pdb
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+D:\DotNet\Project - Copy\Project - Copy\Project\obj\Debug\net7.0\ref\Project.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\appsettings.Development.json
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\appsettings.json
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Project.exe
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Project.deps.json
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Project.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Project.pdb
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Azure.Core.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Azure.Identity.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\BCrypt.Net-Core.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Humanizer.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\JetBrains.Annotations.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\MailKit.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Build.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\MimeKit.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\NuGet.Common.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\X.PagedList.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.build.json
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\staticwebassets.development.json
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\refint\Project.dll
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.pdb
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+D:\DotNet\Project - MVC\Project - Copy\Project\obj\Debug\net7.0\ref\Project.dll

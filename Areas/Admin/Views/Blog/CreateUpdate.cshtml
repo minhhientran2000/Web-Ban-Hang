@@ -1,0 +1,83 @@
+﻿@{
+    //load file Layout.cshtml vao day
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+@using Project.Models
+<div class="col-md-12">
+    <div class="panel panel-primary">
+        <div style="margin: 20px 0px;" class="panel-heading">Add edit Blog</div>
+        <div class="panel-body">
+            <!-- muốn upload file thì phải đặt thuộc tính này vào trong thẻ form: enctype="multipart/form-data" -->
+            <form method="post" enctype="multipart/form-data" action="@ViewBag.action">
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Title</div>
+                    <div class="col-md-10">
+                        <input type="text" value="@if(Model!=null){
+                        <text>@Model.Title</text>
+                        }" name="title" class="form-control" required>
+                    </div>
+                </div>
+                <!-- end rows -->
+                
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Video</div>
+                    <div class="col-md-10">
+                        <input type="text" value="@if(Model!=null){
+                        <text>@Model.Video</text>
+                        }" name="video" class="form-control" required>
+                    </div>
+                </div>
+                <!-- end rows -->
+               
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Photo</div>
+                    <div class="col-md-10">
+                        <input type="file" name="photo" class="form-control">
+                    </div>
+                </div>
+                <!-- end rows -->
+                
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Description</div>
+                    <div class="col-md-10">
+                        <textarea name="description" id="description">@if (Model != null)
+                            {
+                                <text>@Model.Description</text>
+                            }</textarea>
+                        <script language="javascript">
+                            CKEDITOR.replace("description");
+                        </script>
+                    </div>
+                </div>
+                <!-- end rows -->
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Content</div>
+                    <div class="col-md-10">
+                        <textarea name="content" id="Content">@if (Model != null)
+                            {
+                                <text>@Model.Content</text>
+                            }</textarea>
+                        <script language="javascript">
+                            CKEDITOR.replace("Content");
+                        </script>
+                    </div>
+                </div>
+                <!-- end rows -->
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-10">
+                        <input type="submit" value="Process" class="btn btn-primary">
+                    </div>
+                </div>
+                <!-- end rows -->
+            </form>
+        </div>
+    </div>
+</div>
+

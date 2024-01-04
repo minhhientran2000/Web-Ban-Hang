@@ -1,0 +1,107 @@
+﻿@{
+    //load file Layout.cshtml
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+@*De phan trang thi using cac doi tuong sau*@
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@using System.IO
+
+<div class="midde_cont">
+    <div class="container-fluid">
+        <div class="row column_title">
+            <div class="col-md-12">
+                <div class="page_title">
+                    <h2>Slides</h2>
+                </div>
+            </div>
+        </div>
+        <!-- row -->
+        <div class="row column1">
+            <div class="col-md-12">
+                <div class="white_shd full margin_bottom_30">
+                    <div style="margin: 10px 0px 0px 35px;">
+                        <a href="/Admin/Sliders/Create" class="btn btn-primary">Add slide</a>
+                    </div>
+                    <div class="full price_table padding_infor_info">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="table-responsive-sm">
+                                    <table class="table table-striped projects">
+
+                                        <tr>
+                                            <th style="width:220px;">Photo</th>
+                                            <th style="text-align: center;">Name</th>
+
+                                            <th style="width:80px; border-right : none"></th>
+                                            <th style="width:80px; border-left: none; "></th>
+                                        </tr>
+
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+                                                <td>
+                                                    @* File.Exists -> kiem tra file co ton tai khong *@
+                                                    @* Directory.GetCurrentDirectory() -> lay duong dan thu muc *@
+                                                    @if (item.Photo != null && File.Exists(Directory.GetCurrentDirectory() + "\\wwwroot\\Upload\\Slides\\" + item.Photo))
+                                                    {
+                                                        <img src="~/Upload/Slides/@item.Photo" style="width:200px;" />
+                                                    }
+                                                </td>
+                                                <td style="text-align: center;">@item.Name</td>
+
+                                                <td style="text-align:center;">
+                                                    <a class="btn btn-danger" href="/Admin/Sliders/Update/@item.Id">Edit</a>
+
+                                                </td>
+                                                <td style="text-align:center;">
+
+                                                    <a class="btn btn-secondary" href="/Admin/Sliders/Delete/@item.Id" onclick="return window.confirm('Are you sure?');">Delete</a>
+                                                </td>
+                                            </tr>
+
+
+                                        }
+                                    </table>
+
+                                </div>
+                            </div>
+                        </div>
+                        @Html.PagedListPager((IPagedList)Model,p=>Url.Action("Index", new {page = p}))
+                    </div>
+                </div>
+            </div>
+            <!-- end row -->
+        </div>
+
+    </div>
+
+</div>
+<style>
+    .pagination {
+        margin-top: 20px;
+    }
+
+        .pagination li {
+            display: inline-block;
+            height: 40px;
+            width: 40px;
+            border: 1px solid #f2f2f2;
+            border-radius: 50%;
+            font-size: 14px;
+            color: chocolate;
+            font-weight: 600;
+            line-height: 40px;
+            text-align: center;
+            transition: all, 0.3s;
+            margin-right: 6px;
+            font-weight: 600;
+        }
+
+        .pagination li:hover {
+            background: #111111;
+            border-color: #f2f2f2;
+            color: #f2f2f2;
+        }
+</style>

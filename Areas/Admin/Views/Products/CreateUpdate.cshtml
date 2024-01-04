@@ -1,0 +1,193 @@
+﻿@{
+    //load file Layout.cshtml vao day
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+@using Project.Models
+@functions {
+    public MyDbContext db = new MyDbContext();
+    public List<ItemCategory> ListCategories()
+    {
+        List<ItemCategory> list_categories = db.Categories.Where(item => item.ParentId == 0).OrderByDescending(item => item.Id).ToList();
+        return list_categories;
+    }
+    public List<ItemCategory> ListSubCategories(int _CategoryId)
+    {
+        List<ItemCategory> list_categories = db.Categories.Where(item => item.ParentId == _CategoryId).OrderByDescending(item => item.Id).ToList();
+        return list_categories;
+    }
+    public List<ItemTag> ListTags()
+    {
+        List<ItemTag> list_tags = db.Tags.OrderByDescending(item => item.Id).ToList();
+        return list_tags;
+    }
+    //kiểm tra table CategoriesProducts xem có bản ghi tương ứng với CategoryId, ProductId truyền vào không
+    public bool CheckCategoriesProductsRecord(int _CategoryId, int _ProductId)
+    {
+        ItemCategoriesProducts record = db.CategoriesProducts.Where(item => item.CategoryId == _CategoryId && item.ProductId == _ProductId).FirstOrDefault();
+        if (record != null)
+        {
+            return true;
+        }
+        return false;
+    }
+    //kiểm tra table TagsProducts xem có bản ghi tương ứng với CategoryId, ProductId truyền vào không
+    public bool CheckTagsProductsRecord(int _TagId, int _ProductId)
+    {
+        ItemTagProduct record = db.TagsProducts.Where(item => item.TagId == _TagId && item.ProductId == _ProductId).FirstOrDefault();
+        if (record != null)
+        {
+            return true;
+        }
+        return false;
+    }
+}
+<div class="col-md-12">
+    <div class="panel panel-primary">
+        <div style="margin: 20px 0px;" class="panel-heading">Add edit product</div>
+        <div class="panel-body">
+            <!-- muốn upload file thì phải đặt thuộc tính này vào trong thẻ form: enctype="multipart/form-data" -->
+            <form method="post" enctype="multipart/form-data" action="@ViewBag.action">
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Name</div>
+                    <div class="col-md-10">
+                        <input type="text" value="@if(Model!=null){
+                        <text>@Model.Name</text>
+                        }" name="name" class="form-control" required>
+                    </div>
+                </div>
+                <!-- end rows -->
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Categories</div>
+                    <div class="col-md-10" style="height:150px; overflow:scroll;">
+                        <table class="table">
+                            @{
+                                List<ItemCategory> list_categories = ListCategories();
+                            }
+                            @foreach (var item in list_categories)
+                            {
+                                <tr>
+                                    <td>
+                                        <input type="checkbox" @if(Model!= null && CheckCategoriesProductsRecord(item.Id,Model.Id)){
+                                    <text>checked</text>
+                                    } value="@item.Id" name="category_@item.Id" id="category_@item.Id" />&nbsp;&nbsp; <label for="category_@item.Id">@item.Name</label>
+                                    </td>
+                                </tr>
+                                List<ItemCategory> list_sub_categories = ListSubCategories(item.Id);
+                                foreach (var itemSub in list_sub_categories)
+                                {
+                                    <tr>
+                                        <td style="padding-left:30px;">
+                                            <input type="checkbox" @if(Model!= null && CheckCategoriesProductsRecord(itemSub.Id,Model.Id)){
+                                    <text>checked</text>
+                                    } value="@itemSub.Id" name="category_@itemSub.Id" id="category_@itemSub.Id" />&nbsp;&nbsp; <label for="category_@itemSub.Id">@itemSub.Name</label>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </table>
+                    </div>
+                </div>
+                <!-- end rows -->
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Tags</div>
+                    <div class="col-md-10" style="height:150px; overflow:scroll;">
+                        @{
+                            List<ItemTag> list_tags = ListTags();
+                        }
+                        <!-- thuộc tính multiple sẽ cho phép chọn được nhiều danh mục -->
+                        <select name="tags" multiple class="form-control">
+                            @foreach (var item_tag in list_tags)
+                            {
+                                <option @if(Model!= null && CheckTagsProductsRecord(item_tag.Id,Model.Id)){
+                                <text>selected</text>
+                                } value="@item_tag.Id">@item_tag.Name</option>
+                            }   
+                        </select>
+                    </div>
+                </div>
+                <!-- end rows -->
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Price</div>
+                    <div class="col-md-10">
+                        <input type="number" value="@if(Model!=null){
+                        <text>@Model.Price</text>
+                        }else{
+                        <text>0</text>
+                        }" name="price" class="form-control" required>
+                    </div>
+                </div>
+                <!-- end rows -->
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Discount</div>
+                    <div class="col-md-10">
+                        <input type="number" min="0" max="100" value="@if(Model!=null){
+                        <text>@Model.Discount</text>
+                        }else{
+                        <text>0</text>
+                        }" name="discount" class="form-control" required>
+                    </div>
+                </div>
+                <!-- end rows -->
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Photo</div>
+                    <div class="col-md-10">
+                        <input type="file" name="photo" class="form-control">
+                    </div>
+                </div>
+                <!-- end rows -->
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Hot</div>
+                    <div class="col-md-10">
+                        <input type="checkbox" name="hot" id="hot" @if(Model != null && Model.Hot == 1){
+                        <text>checked</text>
+                        }> <label for="hot">Hot</label>
+                    </div>
+                </div>
+                <!-- end rows -->
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Description</div>
+                    <div class="col-md-10">
+                        <textarea name="description" id="description">@if (Model != null)
+                            {
+                                <text>@Model.Description</text>
+                            }</textarea>
+                        <script language="javascript">
+                            CKEDITOR.replace("description");
+                        </script>
+                    </div>
+                </div>
+                <!-- end rows -->
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2">Content</div>
+                    <div class="col-md-10">
+                        <textarea name="content" id="Content">@if (Model != null)
+                            {
+                                <text>@Model.Content</text>
+                            }</textarea>
+                        <script language="javascript">
+                            CKEDITOR.replace("Content");
+                        </script>
+                    </div>
+                </div>
+                <!-- end rows -->
+                <!-- rows -->
+                <div class="row" style="margin-top:5px;">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-10">
+                        <input type="submit" value="Process" class="btn btn-primary">
+                    </div>
+                </div>
+                <!-- end rows -->
+            </form>
+        </div>
+    </div>
+</div>
